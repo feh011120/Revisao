@@ -1,0 +1,15 @@
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\bin\Debug\net7.0\Revisao.exe
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\bin\Debug\net7.0\Revisao.deps.json
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\bin\Debug\net7.0\Revisao.runtimeconfig.json
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\bin\Debug\net7.0\Revisao.dll
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\bin\Debug\net7.0\Revisao.pdb
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\obj\Debug\net7.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\obj\Debug\net7.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\obj\Debug\net7.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\obj\Debug\net7.0\Revisao.AssemblyInfo.cs
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\obj\Debug\net7.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\obj\Debug\net7.0\Revisao.dll
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\obj\Debug\net7.0\refint\Revisao.dll
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\obj\Debug\net7.0\Revisao.pdb
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\obj\Debug\net7.0\Revisao.genruntimeconfig.cache
+C:\Users\faoa\Documents\Dotnet\DigitalInnovationOne\Revisao\obj\Debug\net7.0\ref\Revisao.dll
